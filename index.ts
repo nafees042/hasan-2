@@ -1,0 +1,1 @@
+console.log("abdullah is a good boy");
